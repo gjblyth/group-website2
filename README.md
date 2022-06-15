@@ -21,3 +21,5 @@ Line breaks are caused by two trailing spaces at the end of a line.
     1. sub1
     2. sub2
 4. Test
+
+![Data Carpentries Logo](./DC_logo_vision.png)
